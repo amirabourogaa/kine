@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "Kine",
-    "slug": "kine",
-    "version": "1.0.0",
+    "name": "Healthy Therapy",
+    "slug": "healthy-therapy",
+    "version": "1.0.1",
     "orientation": "portrait",
-    "icon": "./assets/icon.jpg",
+    "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -22,7 +22,7 @@
     "android": {
       "googleServicesFile": "./google-services.json",
       "package": "com.healthytherapy.kine",
-      "versionCode": 1,
+      "versionCode": 2,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
