@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50896943001",
+    "project_id": "kine-f53b0",
+    "storage_bucket": "kine-f53b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50896943001:android:9e7a48ed14b64594a28508",
+        "android_client_info": {
+          "package_name": "com.healthytherapy.kine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50896943001-1alj1q3o1tgtam002atfh6kpfumvc3om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHSxRdUvdWSN3pFumkwjfQMlVLuTbH4Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50896943001-1alj1q3o1tgtam002atfh6kpfumvc3om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
